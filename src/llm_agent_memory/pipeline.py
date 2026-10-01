@@ -17,7 +17,7 @@ import numpy as np
 import yaml
 from numpy.typing import NDArray
 
-from nir_project.config import Settings
+from llm_agent_memory.config import Settings
 
 Array = NDArray[np.float64]
 
